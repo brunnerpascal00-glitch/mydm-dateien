@@ -7,7 +7,7 @@
       "dailyLimit" : 50,
       "fileURL" : "https://brunnerpascal00-glitch.github.io/mydm-dateien/2026-10-24-181718-test-guide-uebung.pdf",
       "id" : "1792858568165",
-      "isDryRun" : false,
+      "isDryRun" : true,
       "isOn" : true,
       "keywords" : [
         "guide"
@@ -36,6 +36,6 @@
   "skip" : [
     "ad5a38e2815b72340502688542989b0a98df50f21fa3f3624af3fde7b8f8c891"
   ],
-  "updatedAt" : "2026-10-25T09:55:09Z",
+  "updatedAt" : "2026-10-25T09:55:20Z",
   "version" : 1
 }
