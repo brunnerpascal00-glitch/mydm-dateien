@@ -1,0 +1,41 @@
+{
+  "publicReplies" : [
+
+  ],
+  "rules" : [
+    {
+      "dailyLimit" : 50,
+      "fileURL" : "https://brunnerpascal00-glitch.github.io/mydm-dateien/2026-10-24-181718-test-guide-uebung.pdf",
+      "id" : "1792858568165",
+      "isDryRun" : false,
+      "isOn" : true,
+      "keywords" : [
+        "guide"
+      ],
+      "linkURL" : "https://example.com/guide",
+      "mediaID" : "",
+      "message" : "Hier ist dein Guide, viel Spaß damit!",
+      "title" : "Guide"
+    },
+    {
+      "dailyLimit" : 50,
+      "fileURL" : "",
+      "id" : "1792858568245",
+      "isDryRun" : false,
+      "isOn" : true,
+      "keywords" : [
+        "checkliste",
+        "liste"
+      ],
+      "linkURL" : "",
+      "mediaID" : "",
+      "message" : "Deine Checkliste — meld dich, wenn du Fragen hast.",
+      "title" : "Checkliste"
+    }
+  ],
+  "skip" : [
+
+  ],
+  "updatedAt" : "2026-10-25T09:52:06Z",
+  "version" : 1
+}
